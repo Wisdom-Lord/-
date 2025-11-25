@@ -1,12 +1,16 @@
-![651b7958-44de-4e6c-a0e2-29eeddc664f9](assets/651b7958-44de-4e6c-a0e2-29eeddc664f9-20251125175142-bcz4qf9.png)
+
+<img width="1600" height="932" alt="651b7958-44de-4e6c-a0e2-29eeddc664f9-20251125175142-bcz4qf9" src="https://github.com/user-attachments/assets/9b84ce6a-cac4-4972-9205-1c7499bd99b6" />
 
 2. 设置帧名称、帧头、分隔符、帧尾等基本信息
 
-![image](assets/image-20251125175415-1roayml.png)
+<img width="1604" height="933" alt="image-20251125175415-1roayml" src="https://github.com/user-attachments/assets/e83fa024-8fc0-4b0b-9530-e0b1c53f97fc" />
 
-![image](assets/image-20251125175517-pxb9xyd.png)
 
-![image](assets/image-20251125175629-te87h0g.png)
+<img width="451" height="388" alt="image-20251125175517-pxb9xyd" src="https://github.com/user-attachments/assets/7f2e399e-1679-4d0b-8ae0-3bed791708c5" />
+
+
+<img width="1601" height="932" alt="image-20251125175629-te87h0g" src="https://github.com/user-attachments/assets/5a8a53f1-c5c6-45e4-8323-9af9c36fcfd2" />
+
 
 1. 点击"保存帧基本信息"保存设置
 
