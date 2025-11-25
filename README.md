@@ -1,4 +1,4 @@
-
+https://github.com/Wisdom-Lord/Internet_interface_assistant
 <img width="1600" height="932" alt="651b7958-44de-4e6c-a0e2-29eeddc664f9-20251125175142-bcz4qf9" src="https://github.com/user-attachments/assets/9b84ce6a-cac4-4972-9205-1c7499bd99b6" />
 
 2. 设置帧名称、帧头、分隔符、帧尾等基本信息
