@@ -56,7 +56,11 @@
 如果您觉得本软件对您的工作有帮助，欢迎通过以下方式打赏支持开发者：
 
 - **微信支付**：扫描微信收款码
+- ![wechat_qrcode](https://github.com/user-attachments/assets/2497cca7-7379-4163-96ac-afe1a60b77ec)
+
 - **支付宝**：扫描支付宝收款码
+- ![alipay_qrcode](https://github.com/user-attachments/assets/23b2525a-a799-422e-a390-3f394c3ba0e4)
+
 
 ## 常见问题
 
